@@ -1,18 +1,26 @@
 {
   "stats": {
-    "minecraft:dropped": {
-      "minecraft:honey_bottle": 1,
-      "minecraft:diamond": 1
+    "minecraft:mined": {
+      "minecraft:lever": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stone_button": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:lantern": 1,
+      "minecraft:lever": 1,
+      "minecraft:arrow": 2,
+      "minecraft:honey_bottle": 1
     },
     "minecraft:custom": {
       "minecraft:talked_to_villager": 12,
-      "minecraft:time_since_rest": 137233,
-      "minecraft:leave_game": 4,
-      "minecraft:time_since_death": 170475,
+      "minecraft:time_since_rest": 137800,
+      "minecraft:leave_game": 5,
+      "minecraft:time_since_death": 171042,
       "minecraft:open_enderchest": 3,
       "minecraft:sleep_in_bed": 1,
       "minecraft:inspect_dispenser": 6,
-      "minecraft:total_world_time": 196408,
+      "minecraft:total_world_time": 196992,
       "minecraft:swim_one_cm": 1832,
       "minecraft:crouch_one_cm": 2851,
       "minecraft:climb_one_cm": 129,
@@ -21,7 +29,7 @@
       "minecraft:walk_one_cm": 120560,
       "minecraft:walk_under_water_one_cm": 13179,
       "minecraft:interact_with_lectern": 2,
-      "minecraft:play_time": 170475,
+      "minecraft:play_time": 171042,
       "minecraft:jump": 176,
       "minecraft:drop": 2,
       "minecraft:open_barrel": 15,
@@ -75,17 +83,9 @@
       "minecraft:spruce_trapdoor": 1,
       "minecraft:iron_door": 5
     },
-    "minecraft:picked_up": {
-      "minecraft:lantern": 1,
-      "minecraft:lever": 1,
-      "minecraft:arrow": 2,
-      "minecraft:honey_bottle": 1
-    },
-    "minecraft:mined": {
-      "minecraft:lever": 1
-    },
-    "minecraft:crafted": {
-      "minecraft:stone_button": 1
+    "minecraft:dropped": {
+      "minecraft:honey_bottle": 1,
+      "minecraft:diamond": 1
     }
   },
   "DataVersion": 4671
