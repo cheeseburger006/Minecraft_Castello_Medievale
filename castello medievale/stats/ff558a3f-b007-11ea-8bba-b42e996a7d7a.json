@@ -1,0 +1,86 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:lever": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stone_button": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:lantern": 1,
+      "minecraft:lever": 1
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 12,
+      "minecraft:time_since_rest": 120067,
+      "minecraft:leave_game": 3,
+      "minecraft:time_since_death": 153309,
+      "minecraft:open_enderchest": 3,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:inspect_dispenser": 4,
+      "minecraft:total_world_time": 169727,
+      "minecraft:swim_one_cm": 1832,
+      "minecraft:crouch_one_cm": 2667,
+      "minecraft:climb_one_cm": 101,
+      "minecraft:traded_with_villager": 1,
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:walk_one_cm": 105807,
+      "minecraft:walk_under_water_one_cm": 11352,
+      "minecraft:interact_with_lectern": 2,
+      "minecraft:play_time": 153309,
+      "minecraft:jump": 160,
+      "minecraft:drop": 1,
+      "minecraft:open_barrel": 15,
+      "minecraft:sprint_one_cm": 10831,
+      "minecraft:open_chest": 46,
+      "minecraft:inspect_hopper": 4,
+      "minecraft:fly_one_cm": 1036186,
+      "minecraft:walk_on_water_one_cm": 6031,
+      "minecraft:sneak_time": 6486
+    },
+    "minecraft:used": {
+      "minecraft:oak_trapdoor": 3,
+      "minecraft:grass_block": 4,
+      "minecraft:crying_obsidian": 16,
+      "minecraft:repeater": 4,
+      "minecraft:observer": 27,
+      "minecraft:end_stone": 53,
+      "minecraft:chain_command_block": 3,
+      "minecraft:dirt_path": 14,
+      "minecraft:warped_fence_gate": 3,
+      "minecraft:warped_fence": 1,
+      "minecraft:end_stone_brick_stairs": 7,
+      "minecraft:honey_block": 20,
+      "minecraft:slime_block": 34,
+      "minecraft:stone_brick_slab": 2,
+      "minecraft:sticky_piston": 33,
+      "minecraft:repeating_command_block": 1,
+      "minecraft:item_frame": 3,
+      "minecraft:ender_eye": 2,
+      "minecraft:dark_oak_planks": 2,
+      "minecraft:lantern": 1,
+      "minecraft:command_block": 9,
+      "minecraft:barrel": 2,
+      "minecraft:written_book": 2,
+      "minecraft:dirt": 2,
+      "minecraft:minecart": 7,
+      "minecraft:dark_oak_slab": 1,
+      "minecraft:lever": 1,
+      "minecraft:white_concrete": 1,
+      "minecraft:chest_minecart": 14,
+      "minecraft:stone_button": 2,
+      "minecraft:redstone": 7,
+      "minecraft:lime_bed": 1,
+      "minecraft:lapis_ore": 3,
+      "minecraft:rail": 10,
+      "minecraft:stone": 18,
+      "minecraft:end_portal_frame": 2,
+      "minecraft:spruce_trapdoor": 1,
+      "minecraft:iron_door": 5
+    },
+    "minecraft:dropped": {
+      "minecraft:diamond": 1
+    }
+  },
+  "DataVersion": 4671
+}
